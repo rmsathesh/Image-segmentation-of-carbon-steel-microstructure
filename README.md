@@ -7,3 +7,13 @@ Micrograph images were obtained from UHCS database https://materialsdata.nist.go
 Image augmentation was used to increase the number of training samples and enhancing the model's accuracy. IoU and Dice coefficient were used as the metric to evaluate the model's performance.
 
 The above model after training gave IoU of 81.5% and Dice-coefficient of 88%. 
+
+Below are some of the predicted results
+
+
+![](images/result_1.PNG)
+
+![](images/result_2.PNG)
+
+![](images/result_3.PNG)
+
